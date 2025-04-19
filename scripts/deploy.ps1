@@ -11,7 +11,7 @@ choco install -y python git
 $env:Path += ";C:\Python311\;C:\Python311\Scripts\"
 
 # Clone  GitHub repo 
-git clone https://github.com/your-username/devops-project.git C:\flaskapp
+git clone https://github.com/AdrianVega1/devops-project.git C:\flaskapp
 
 # Install app requirements
 cd C:\flaskapp\app
